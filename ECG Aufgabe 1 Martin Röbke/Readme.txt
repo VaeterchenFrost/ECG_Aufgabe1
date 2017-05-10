@@ -14,10 +14,10 @@ Es wird die Statische Bibliothek verlinkt, die in ../tree/ liegt.
 Statische Bibliothek für die Klasse *node*.
 
 ----/tree_dll
-Statische Bibliothek für die Klasse *node*.
-xssss
-----/MyTreeRefsDll sd
+Dynamische Bibliothek für die Klasse *node*.
 
+----/MyTreeRefsDll 
+Testprogramm für DLL tree_dll.
 
 ========== Dateien:
 ---- Readme.txt ; Diese Datei.
