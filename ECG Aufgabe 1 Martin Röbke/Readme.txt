@@ -1,20 +1,28 @@
-19:22 10.05.2017 Martin Röbke
+19:22 10.05.2017 Martin RÃ¶bke
 
 ECG - Praxisaufgabe 1
 =====================
 Inhalt:
 ==========
 ========== Ordner:
+
 ----/ecg_tree
 Fertiges VS 2017 Projekt zu ersten Aufgaben.
 Es wird die Statische Bibliothek verlinkt, die in ../tree/ liegt.
 
 ----/tree
-Statische Bibliothek für die Klasse *node*.
+Statische Bibliothek fÃ¼r die Klasse *node*.
+
+----/tree_dll
+Statische Bibliothek fÃ¼r die Klasse *node*.
+xssss
+----/MyTreeRefsDll sd
+
+
 ========== Dateien:
 ---- Readme.txt ; Diese Datei.
 ---- main.cpp
-Quell-Datei zur Ausführung der *node* Klasse.
+Quell-Datei zur AusfÃ¼hrung der *node* Klasse.
 ----node.cpp
 Quelldatei zur Klasse *node*.
 ----node.h
