@@ -1,0 +1,12 @@
+﻿  node.cpp
+c:\users\martin\documents\visual studio 2017\projects\ecg_tree\ecg_tree\node.cpp(45): warning C4267: "return": Konvertierung von "size_t" nach "unsigned int", Datenverlust möglich
+c:\users\martin\documents\visual studio 2017\projects\ecg_tree\ecg_tree\node.cpp(200): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+c:\users\martin\documents\visual studio 2017\projects\ecg_tree\ecg_tree\node.cpp(202): warning C4267: "=": Konvertierung von "size_t" nach "int", Datenverlust möglich
+c:\users\martin\documents\visual studio 2017\projects\ecg_tree\ecg_tree\node.cpp(286): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+c:\users\martin\documents\visual studio 2017\projects\ecg_tree\ecg_tree\node.cpp(288): warning C4267: "=": Konvertierung von "size_t" nach "int", Datenverlust möglich
+c:\users\martin\documents\visual studio 2017\projects\ecg_tree\ecg_tree\node.cpp(324): warning C4018: "<=": Konflikt zwischen "signed" und "unsigned"
+  main.cpp
+  Kompilieren...
+  Code wird generiert...
+  ecg_tree.vcxproj -> c:\Users\Martin\Documents\Visual Studio 2017\Projects\ecg_tree\x64\Debug\ecg_tree.exe
+  ecg_tree.vcxproj -> c:\Users\Martin\Documents\Visual Studio 2017\Projects\ecg_tree\x64\Debug\ecg_tree.pdb (Partial PDB)

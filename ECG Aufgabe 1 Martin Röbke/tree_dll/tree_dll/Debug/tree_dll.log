@@ -1,0 +1,5 @@
+﻿  node.cpp
+c:\users\martin\documents\visual studio 2017\projects\tree_dll\tree_dll\node.cpp(331): warning C4018: "<=": Konflikt zwischen "signed" und "unsigned"
+     Bibliothek "c:\Users\Martin\Documents\Visual Studio 2017\Projects\tree_dll\Debug\tree_dll.lib" und Objekt "c:\Users\Martin\Documents\Visual Studio 2017\Projects\tree_dll\Debug\tree_dll.exp" werden erstellt.
+  tree_dll.vcxproj -> c:\Users\Martin\Documents\Visual Studio 2017\Projects\tree_dll\Debug\tree_dll.dll
+  tree_dll.vcxproj -> c:\Users\Martin\Documents\Visual Studio 2017\Projects\tree_dll\Debug\tree_dll.pdb (Partial PDB)

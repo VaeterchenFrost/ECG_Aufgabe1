@@ -1,0 +1,3 @@
+﻿  node.cpp
+c:\users\martin\documents\visual studio 2017\projects\tree\tree\node.cpp(324): warning C4018: "<=": Konflikt zwischen "signed" und "unsigned"
+  tree.vcxproj -> c:\Users\Martin\Documents\Visual Studio 2017\Projects\tree\Debug\tree.lib
